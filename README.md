@@ -1,4 +1,7 @@
 # Javascript
 
-- JS functions vs Class
-  - [Source 1](https://medium.com/@laasrisaid34/javascript-class-vs-function-choosing-the-right-approach-for-your-code-eb048dcbc32d)
+- Why not to use ES6 Classes
+
+  ### References
+  - [Functional solutions to the class](https://medium.com/@araujjohnny/stop-using-javascript-classes-d0b6890ef097)
+  - [JS Class gotchas](https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up)
