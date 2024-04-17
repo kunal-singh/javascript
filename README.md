@@ -10,3 +10,7 @@
 
   ### References
   - [Basics](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+
+# Algorithms
+
+- [How to recognize a problem should be solved using BFS or DFS](https://medium.com/@saverio3107/solving-mazes-with-breadth-first-search-bfs-or-depth-first-search-dfs-ee4d10861288)
