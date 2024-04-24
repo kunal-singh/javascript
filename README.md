@@ -17,13 +17,11 @@
 
 # CLI References
 
-## VITE project set up
-
-### React + Typescript + NX + ESLint + Prettier
+### React + Typescript + NX + ESLint + Prettier + Vite
 
     npx create-nx-workspace@latest react-app --preset=react-standalone
 
-### Electron + React + TS
+### Electron + React + TS + Vite
 
     pnpm create @quick-start/electron my-app --template react-ts
   
