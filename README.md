@@ -14,3 +14,16 @@
 # Algorithms
 
 - [How to recognize a problem should be solved using BFS or DFS](https://medium.com/@saverio3107/solving-mazes-with-breadth-first-search-bfs-or-depth-first-search-dfs-ee4d10861288)
+
+# CLI References
+
+## VITE project set up
+
+### React + Typescript + NX + ESLint + Prettier
+
+    npx create-nx-workspace@latest react-app --preset=react-standalone
+
+### Electron + React + TS
+
+    pnpm create @quick-start/electron my-app --template react-ts
+  
