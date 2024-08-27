@@ -15,6 +15,10 @@
 
 - [How to recognize a problem should be solved using BFS or DFS](https://medium.com/@saverio3107/solving-mazes-with-breadth-first-search-bfs-or-depth-first-search-dfs-ee4d10861288)
 
+# Architecture
+
+- [SOLID Principles explained via illustrations](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)  
+
 # CLI References
 
 ### React + Typescript + NX + ESLint + Prettier + Vite
